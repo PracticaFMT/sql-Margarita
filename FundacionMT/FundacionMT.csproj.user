@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Anexo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Atencion07.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Atencion1560.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Atencion814.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="colegio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DesarrolloEdadAdulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InclusionEscolar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InclusionInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interv Temprana.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IntervDistancia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ninez.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrimeraInfancia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VICA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
